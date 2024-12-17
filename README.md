@@ -58,6 +58,7 @@ Achievements are awarded for specific actions, such as:
 - Reaching story milestones
 
 ###LICENSE 
+
 See the [LICENSE](LICENSE) file for details.
 
 ---
