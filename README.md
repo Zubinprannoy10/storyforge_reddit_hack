@@ -57,4 +57,7 @@ Achievements are awarded for specific actions, such as:
 - Solving puzzles
 - Reaching story milestones
 
+###LICENSE 
+See the [LICENSE](LICENSE) file for details.
+
 ---
